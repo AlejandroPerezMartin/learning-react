@@ -2,9 +2,15 @@
   "name": "test-react",
   "version": "0.1.0",
   "private": true,
+  "author": "Alejandro Perez Martin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlejandroPerezMartin/learning-react"
+  },
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
